@@ -16,3 +16,5 @@ To use:
 5. Once all above are complete then run the PS script in a PS terminal.
 
 6. <CTRL+C> will terminate process.
+
+7. Enjoy being scummy! (Or, How I Learned to Not Lose So Much Progress.)
